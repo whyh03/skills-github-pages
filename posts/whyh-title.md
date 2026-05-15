@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "YOUR-NAMEE"
+date: 2026-6-26
 ---
 theme: minima
 title: whyh03's personal blog
