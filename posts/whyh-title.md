@@ -1,3 +1,7 @@
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
 theme: minima
 title: whyh03's personal blog
 description: This is where I share cool stuff about my life
